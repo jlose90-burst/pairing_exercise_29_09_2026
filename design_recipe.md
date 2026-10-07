@@ -23,11 +23,14 @@ Order is kept: names appear in the same order they were given.
 ## 2 function signature
 ```python
 # Parameters:
-# - 
+# list of names 
+
 # Return type:
-# - 
+# string of people of names with an & between the last pair, and seperated by commas in the lenght of returned names is less than 3
+
 # Side Effects:
-# - 
+# No side effects 
+
 def your_function():
     pass
 ```

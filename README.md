@@ -10,7 +10,7 @@ setup:
 - cd pairing_exercise_29_09_2026
 - python3 -m venv ven
 - source venv/bin/activate
-- pip install pytest
+- pip instalp pytest
 - pytest -xv # this should pass
 ```
 
